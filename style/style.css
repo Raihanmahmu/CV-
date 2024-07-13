@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    font-family: "Anton SC", sans-serif;
+    color: gold;
+}
+
+img{
+    border-radius: 50px;
+    height: 400px;
+    width: 300px;
+    align-items: center;
+}
+
+h2{
+    color: blue;
+    text-shadow: 0;
+    font-family: cursive;
+}
+
+h3{
+    text-align: center;
+    color: lightsalmon;
+    font-family: fantasy;
+    font-size: 30px;
+    outline-border-color: black;
+    text-shadow: none;
+}
+
+
+p{
+    color: white;
+    font-family: "Anton SC", sans-serif;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+button{
+        box-shadow: 0 0 25px blue;
+        text-align: center;
+        background-color: blue;
+        color: white;
+        height: 38px;
+        width: 133px;
+        border-radius: 40px;
+        cursor: pointer;
+}
+
+i{
+    color: navajowhite;
+    font-family: "Anton SC", sans-serif;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
